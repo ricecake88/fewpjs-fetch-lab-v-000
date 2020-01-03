@@ -15,8 +15,5 @@ function renderBooks(json) {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  console.log("yes here")
-  return_json = fetchBooks();
-  console.log(return_json)
-  renderBooks(return_json)
+ fetchBooks();
 })
