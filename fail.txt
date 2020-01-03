@@ -1,0 +1,17 @@
+
+> javascript-fetch-lab@0.1.0 test /home/ricecake88/fewpjs-fetch-lab-v-000
+> mocha -R mocha-multi --reporter-options nyan=-,json=.results.json
+
+ 0
+ 0
+ 0
+
+[4A[5C-
+[5C-
+[5C-
+[5C-
+[4A[6C_,------,
+[6C_|   /\_/\ 
+[6C^|__( - .-) 
+[6C  ""  "" 
+[4A
